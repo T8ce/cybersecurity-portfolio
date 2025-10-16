@@ -1,12 +1,13 @@
-**What I Learned:**  
-We volunteered at the nonprfit organization NPursuit. Commissioning donated laptops to be redistributed to individuals. I was tasked with uploading the operating system from the USB drive to the 0 partition.
+What I Learned:
+We volunteered at the nonprofit organization NPursuit, commissioning donated laptops to be redistributed to individuals. I was tasked with installing the operating system from a USB drive onto the primary (0) partition.
 
-**Challenges Faced:**  
-A couple of challenges faced was the first laptop did not bootup to the BIOS screen. It was not scrubbed [insert the correct language for scrubbed].I was in the wrong category of devices. This was not a challenge, but more so miscategorization of a device. The second laptop bootup to the correct screen. the upload process was running smoothly; however, the device had to restart several times which but the final restart to complete the batch file wouldnt not upload after a few attempts to restart and download the device. I had to escalate the issue to the technician oversee our groups ...
+Challenges Faced:
+A couple of challenges I faced included the first laptop not booting up to the BIOS screen because it had not been properly wiped (data not erased). I also realized I had selected the wrong category of devices, which was not a technical issue but rather a miscategorization error.
+The second laptop booted to the correct screen, and the upload process initially ran smoothly; however, the device had to restart several times. During the final restart, the batch file failed to complete the upload, and after multiple attempts to restart and reinstall, the process would not finalize.
 
-**How I Solved Them:**  
+How I Solved Them:
+I escalated the issue to the technician overseeing our group for further troubleshooting and guidance.
 
-
-**Next Steps:**  
-
+Next Steps:
+Afterward, I continued working on my home lab. I terminated two (2) Cat 6 cables and one (1) Cat 5 cable. I set up the area with two (2) PCs, one (1) laptop, a Cisco switch, and a Wi-Fi extender/access point. All of these devices were connected to a surge protector for safety.
 
